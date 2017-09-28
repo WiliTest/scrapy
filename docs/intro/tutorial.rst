@@ -40,7 +40,7 @@ list of Python resources for non-programmers`_.
 Creating a project
 ==================
 
-Before you start scraping, you will have to set up a new Scrapy project. Enter a
+Before you start scraping, you will have to set up a new Scrapy project. Open your OS shell, enter the
 directory where you'd like to store your code and run::
 
     scrapy startproject tutorial
